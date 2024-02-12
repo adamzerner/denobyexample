@@ -3,7 +3,7 @@
  * @difficulty intermediate
  * @tags cli, deploy
  * @run --allow-net --allow-env <url>
- * @resource {https://deno-postgres.com/} Deno Postgres docs
+ * @resource {https://github.com/denodrivers/postgres} Deno Postgres docs
  * @resource {https://deno.land/x/postgres} Deno Postgres on deno.land/x
  *
  * Using the Deno Postgres client, you can connect to a Postgres database
