@@ -11,7 +11,7 @@
  */
 
 // Import the Client constructor from deno.land/x
-import { Client } from "https://deno.land/x/postgres@v0.17.0/mod.ts";
+import { Client } from "https://deno.land/x/postgres@v0.17.2/mod.ts";
 
 // Initialize the client with connection information for your database, and
 // create a connection.
